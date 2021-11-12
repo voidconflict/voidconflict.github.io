@@ -3,7 +3,7 @@
     <title>Void Conflict</title>
     <link href="https://voidconflict.github.io/feed.xml" rel="self" />
     <link href="https://voidconflict.github.io" />
-    <updated>2021-11-12T15:07:38-05:00</updated>
+    <updated>2021-11-12T15:48:13-05:00</updated>
     <author>
         <name>Travis</name>
     </author>
@@ -14,12 +14,12 @@
         <author>
             <name>Travis</name>
         </author>
-        <link href="https://voidconflict.github.io/games.html"/>
-        <id>https://voidconflict.github.io/games.html</id>
+        <link href="https://voidconflict.github.io/games/"/>
+        <id>https://voidconflict.github.io/games/</id>
             <category term="Tag2"/>
             <category term="Tag1"/>
 
-        <updated>2021-11-12T15:07:38-05:00</updated>
+        <updated>2021-11-12T15:48:13-05:00</updated>
             <summary>
                 <![CDATA[
                      Games Labyrinth-Void Venture through mazes, puzzles, and monsters to unseal the void. 

@@ -10,8 +10,8 @@
     },
     "items": [
         {
-            "id": "https://voidconflict.github.io/games.html",
-            "url": "https://voidconflict.github.io/games.html",
+            "id": "https://voidconflict.github.io/games/",
+            "url": "https://voidconflict.github.io/games/",
             "title": "Games",
             "summary": " Games Labyrinth-Void Venture through mazes, puzzles, and monsters to unseal the void. ",
             "content_html": "<div><header class=\"page-header container-fluid\">\n\t<div class=\"row\">\n\t\t<div class=\"col text-light py-4\">\n\t\t\t<h1><svg width=\"1em\" height=\"1em\" viewBox=\"0 0 16 16\" class=\"bi bi-joystick\" fill=\"currentColor\" xmlns=\"http://www.w3.org/2000/svg\">\n\t\t\t<path d=\"M7.106 15.553L.553 12.276A1 1 0 0 1 0 11.382V9.471a1 1 0 0 1 .606-.89L6 6.269v1.088L1 9.5l5.658 2.83a3 3 0 0 0 2.684 0L15 9.5l-5-2.143V6.27l5.394 2.312a1 1 0 0 1 .606.89v1.911a1 1 0 0 1-.553.894l-6.553 3.277a2 2 0 0 1-1.788 0z\"></path>\n\t\t\t<path fill-rule=\"evenodd\" d=\"M7.5 9.5v-6h1v6h-1z\"></path>\n\t\t\t<path d=\"M10 9.75c0 .414-.895.75-2 .75s-2-.336-2-.75S6.895 9 8 9s2 .336 2 .75zM10 2a2 2 0 1 1-4 0 2 2 0 0 1 4 0z\"></path>\n\t\t\t</svg> Games</h1>\n\t\t</div>\n\t</div>\n</header>\n</div>\n<div><section class=\"mt-5\">\n\t<div class=\"container\">\n\t\t<div class=\"row\">\n\t\t\t<div class=\"col-md-4\">\n\t\t\t\t<a href=\"labyrinth-void\" class=\"card mb-5 bg-dark text-light\">\n\t\t\t\t\t<img loading=\"lazy\" src=\"data/games/labyrinth-void/art/labyrinth-void-thumbnail.webp\" data-is-external-image=\"true\"  class=\"card-img-top\" alt=\"labyrinth-void\">\n\t\t\t\t\t<div class=\"card-body\">\n\t\t\t\t\t\t<h5 class=\"card-title\">Labyrinth-Void</h5>\n\t\t\t\t\t\t<p class=\"card-text\">Venture through mazes, puzzles, and monsters to unseal the void.</p>\n\t\t\t\t\t</div>\n\t\t\t\t</a>\n\t\t\t</div>\n\t\t</div>\n\t</div>\n</section></div>\n\n  <p>\n    \n  </p>",
@@ -23,7 +23,7 @@
                    "Tag1"
             ],
             "date_published": "2021-11-12T15:02:35-05:00",
-            "date_modified": "2021-11-12T15:07:38-05:00"
+            "date_modified": "2021-11-12T15:48:13-05:00"
         }
     ]
 }
