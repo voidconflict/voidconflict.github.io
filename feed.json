@@ -2,21 +2,21 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Void Conflict",
     "description": "",
-    "home_page_url": "https://voidconflict.github.io",
-    "feed_url": "https://voidconflict.github.io/feed.json",
+    "home_page_url": "https://voidconflict.com",
+    "feed_url": "https://voidconflict.com/feed.json",
     "user_comment": "",
-    "icon": "https://voidconflict.github.io/media/website/logo.webp",
+    "icon": "https://voidconflict.com/media/website/logo.webp",
     "author": {
         "name": "Void Conflict"
     },
     "items": [
         {
-            "id": "https://voidconflict.github.io/welcome-to-our-remastered-website/",
-            "url": "https://voidconflict.github.io/welcome-to-our-remastered-website/",
+            "id": "https://voidconflict.com/welcome-to-our-remastered-website/",
+            "url": "https://voidconflict.com/welcome-to-our-remastered-website/",
             "title": "Welcome To Our Remastered Website",
             "summary": "With that being said, if you find any issues use our contact page or comment sections to let us know. As for what's coming up&hellip;",
-            "content_html": "<p>With that being said, if you find any issues use our contact page or comment sections to let us know. As for what's coming up on the horizon regarding our projects, <a href=\"https://voidconflict.github.io/labyrinth-void/\">Labyrinth-Void</a> will be getting a update this month to smash a few bugs. Another game project is also in the works that will be releasing next month. Bookmark our blog page or use your favorite RSS feed reader to get the latest updates.</p>",
-            "image": "https://voidconflict.github.io/media/posts/14/Website.webp",
+            "content_html": "<p>With that being said, if you find any issues use our contact page or comment sections to let us know. As for what's coming up on the horizon regarding our projects, <a href=\"https://voidconflict.com/labyrinth-void/\">Labyrinth-Void</a> will be getting a update this month to smash a few bugs. Another game project is also in the works that will be releasing next month. Bookmark our blog page or use your favorite RSS feed reader to get the latest updates.</p>",
+            "image": "https://voidconflict.com/media/posts/14/Website.webp",
             "author": {
                 "name": "Void Conflict"
             },

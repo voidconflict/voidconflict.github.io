@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Void Conflict</title>
-    <link href="https://voidconflict.github.io/feed.xml" rel="self" />
-    <link href="https://voidconflict.github.io" />
+    <link href="https://voidconflict.com/feed.xml" rel="self" />
+    <link href="https://voidconflict.com" />
     <updated>2022-06-20T23:39:27-04:00</updated>
     <author>
         <name>Void Conflict</name>
     </author>
-    <id>https://voidconflict.github.io</id>
+    <id>https://voidconflict.com</id>
 
     <entry>
         <title>Welcome To Our Remastered Website</title>
         <author>
             <name>Void Conflict</name>
         </author>
-        <link href="https://voidconflict.github.io/welcome-to-our-remastered-website/"/>
-        <id>https://voidconflict.github.io/welcome-to-our-remastered-website/</id>
+        <link href="https://voidconflict.com/welcome-to-our-remastered-website/"/>
+        <id>https://voidconflict.com/welcome-to-our-remastered-website/</id>
             <category term="Blog"/>
 
         <updated>2022-06-20T23:39:27-04:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://voidconflict.github.io/media/posts/14/Website.webp" alt="Website" />
+                        <img src="https://voidconflict.com/media/posts/14/Website.webp" alt="Website" />
                     With that being said, if you find any issues use our contact page or comment sections to let us know. As for what's coming up&hellip;
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://voidconflict.github.io/media/posts/14/Website.webp" alt="Website" />
-                <p>With that being said, if you find any issues use our contact page or comment sections to let us know. As for what's coming up on the horizon regarding our projects, <a href="https://voidconflict.github.io/labyrinth-void/">Labyrinth-Void</a> will be getting a update this month to smash a few bugs. Another game project is also in the works that will be releasing next month. Bookmark our blog page or use your favorite RSS feed reader to get the latest updates.</p>
+                    <img src="https://voidconflict.com/media/posts/14/Website.webp" alt="Website" />
+                <p>With that being said, if you find any issues use our contact page or comment sections to let us know. As for what's coming up on the horizon regarding our projects, <a href="https://voidconflict.com/labyrinth-void/">Labyrinth-Void</a> will be getting a update this month to smash a few bugs. Another game project is also in the works that will be releasing next month. Bookmark our blog page or use your favorite RSS feed reader to get the latest updates.</p>
             ]]>
         </content>
     </entry>
