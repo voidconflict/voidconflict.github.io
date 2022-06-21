@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://voidconflict.github.io/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://voidconflict.github.io/</loc>
+</url>
+<url>
+<loc>https://voidconflict.github.io/about/</loc>
+<lastmod>2022-06-20T17:00:48-04:00</lastmod>
+</url>
+<url>
+<loc>https://voidconflict.github.io/contact/</loc>
+<lastmod>2022-06-18T19:18:01-04:00</lastmod>
+</url>
+<url>
+<loc>https://voidconflict.github.io/labyrinth-void/</loc>
+<lastmod>2022-06-20T16:56:37-04:00</lastmod>
+<image:image>
+<image:loc>https://voidconflict.github.io/media\posts\1/Labyrinth-Void-thumbnail-2.webp</image:loc>
+<image:title><![CDATA[Labyrinth-Void Thumbnail]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://voidconflict.github.io/labyrinth-void-changelog/</loc>
+<lastmod>2022-06-16T22:28:42-04:00</lastmod>
+</url>
+<url>
+<loc>https://voidconflict.github.io/labyrinth-void-wiki/</loc>
+<lastmod>2022-06-16T20:26:15-04:00</lastmod>
+</url>
+<url>
+<loc>https://voidconflict.github.io/privacy/</loc>
+<lastmod>2022-06-16T22:25:54-04:00</lastmod>
+</url>
+<url>
+<loc>https://voidconflict.github.io/terms/</loc>
+<lastmod>2022-06-16T22:25:45-04:00</lastmod>
+</url>
+<url>
+<loc>https://voidconflict.github.io/welcome-to-our-remastered-website/</loc>
+<lastmod>2022-06-20T23:39:27-04:00</lastmod>
+<image:image>
+<image:loc>https://voidconflict.github.io/media\posts\14/Website.webp</image:loc>
+<image:title><![CDATA[Website]]></image:title>
+</image:image>
+</url>
+</urlset>
