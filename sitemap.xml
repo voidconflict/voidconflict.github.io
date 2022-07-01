@@ -10,7 +10,7 @@
 </url>
 <url>
 <loc>https://voidconflict.com/contact/</loc>
-<lastmod>2022-06-18T19:18:01-04:00</lastmod>
+<lastmod>2022-06-30T23:39:20-04:00</lastmod>
 </url>
 <url>
 <loc>https://voidconflict.com/labyrinth-void/</loc>
@@ -21,8 +21,16 @@
 </image:image>
 </url>
 <url>
+<loc>https://voidconflict.com/labyrinth-void-201-update/</loc>
+<lastmod>2022-06-30T22:36:34-04:00</lastmod>
+<image:image>
+<image:loc>https://voidconflict.com/media\posts\15/Update.webp</image:loc>
+<image:title><![CDATA[Update]]></image:title>
+</image:image>
+</url>
+<url>
 <loc>https://voidconflict.com/labyrinth-void-changelog/</loc>
-<lastmod>2022-06-16T22:28:42-04:00</lastmod>
+<lastmod>2022-06-30T21:38:47-04:00</lastmod>
 </url>
 <url>
 <loc>https://voidconflict.com/labyrinth-void-wiki/</loc>

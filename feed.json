@@ -11,6 +11,22 @@
     },
     "items": [
         {
+            "id": "https://voidconflict.com/labyrinth-void-201-update/",
+            "url": "https://voidconflict.com/labyrinth-void-201-update/",
+            "title": "Labyrinth-Void 2.0.1 Update",
+            "summary": "Hi players, a new update has gone live that fixes a few bugs and improves menu navigation. A x86 version is no longer included in&hellip;",
+            "content_html": "<p>Hi players, a new update has gone live that fixes a few bugs and improves menu navigation. A x86 version is no longer included in the game package since it doubles the file size of the game even though only the x64 package is used on Xbox. I also updated the cover art but to see the change on Xbox you may have to delete and redownload the game.</p>\n<p>That's it for this update, if you come across any issues send them my way and I will look into them.</p>",
+            "image": "https://voidconflict.com/media/posts/15/Update.webp",
+            "author": {
+                "name": "Void Conflict"
+            },
+            "tags": [
+                   "Blog"
+            ],
+            "date_published": "2022-06-30T12:00:00-04:00",
+            "date_modified": "2022-06-30T22:36:34-04:00"
+        },
+        {
             "id": "https://voidconflict.com/welcome-to-our-remastered-website/",
             "url": "https://voidconflict.com/welcome-to-our-remastered-website/",
             "title": "Welcome To Our Remastered Website",

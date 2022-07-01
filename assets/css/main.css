@@ -917,6 +917,12 @@ code {
   background-color: var(--black-light);
 }
 
+hr {
+  border: 0;
+  height: 1px;
+  background: linear-gradient(to right, var(--black-dark), var(--cyan-dark), var(--black-dark));
+}
+
 .navbar {
   box-sizing: border-box;
   min-height: 125px;

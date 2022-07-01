@@ -3,12 +3,36 @@
     <title>Void Conflict</title>
     <link href="https://voidconflict.com/feed.xml" rel="self" />
     <link href="https://voidconflict.com" />
-    <updated>2022-06-20T23:39:27-04:00</updated>
+    <updated>2022-06-30T22:36:34-04:00</updated>
     <author>
         <name>Void Conflict</name>
     </author>
     <id>https://voidconflict.com</id>
 
+    <entry>
+        <title>Labyrinth-Void 2.0.1 Update</title>
+        <author>
+            <name>Void Conflict</name>
+        </author>
+        <link href="https://voidconflict.com/labyrinth-void-201-update/"/>
+        <id>https://voidconflict.com/labyrinth-void-201-update/</id>
+            <category term="Blog"/>
+
+        <updated>2022-06-30T22:36:34-04:00</updated>
+            <summary>
+                <![CDATA[
+                        <img src="https://voidconflict.com/media/posts/15/Update.webp" alt="Update" />
+                    Hi players, a new update has gone live that fixes a few bugs and improves menu navigation. A x86 version is no longer included in&hellip;
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                    <img src="https://voidconflict.com/media/posts/15/Update.webp" alt="Update" />
+                <p>Hi players, a new update has gone live that fixes a few bugs and improves menu navigation. A x86 version is no longer included in the game package since it doubles the file size of the game even though only the x64 package is used on Xbox. I also updated the cover art but to see the change on Xbox you may have to delete and redownload the game.</p>
+<p>That's it for this update, if you come across any issues send them my way and I will look into them.</p>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Welcome To Our Remastered Website</title>
         <author>
